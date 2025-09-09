@@ -14,4 +14,4 @@ Este projeto consiste em um template de email marketing responsivo desenvolvido 
 * Tabelas HTML → utilizadas para garantir suporte em plataformas como Outlook.
 
 ## Prévia do Projeto
-[Prévia do layout.](https://github.com/danieleksantos/email-marketing-Bar-Aberto/blob/main/images/previ.png?raw=true)
+![Prévia do layout.](https://github.com/danieleksantos/email-marketing-Bar-Aberto/blob/main/images/previ.png?raw=true)
