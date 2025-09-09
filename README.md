@@ -15,3 +15,5 @@ Este projeto consiste em um template de email marketing responsivo desenvolvido 
 
 ## Prévia do Projeto
 ![Prévia do layout.](https://github.com/danieleksantos/email-marketing-Bar-Aberto/blob/main/images/previ.png?raw=true)
+
+🔗 Visualizar template completo: https://danieleksantos.github.io/email-marketing-Bar-Aberto/
